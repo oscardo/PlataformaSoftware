@@ -1,0 +1,20 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\bin\Debug\DistriFarmaNet.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\bin\Debug\DistriFarmaNet.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\bin\Debug\DistriFarmaNet.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\obj\Debug\DistriFarmaNet.csprojResolveAssemblyReference.cache
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\obj\Debug\DistriFarmaNet.Form1.resources
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\obj\Debug\DistriFarmaNet.Properties.Resources.resources
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\obj\Debug\DistriFarmaNet.csproj.GenerateResource.Cache
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\obj\Debug\DistriFarmaNet.csproj.CoreCompileInputs.cache
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\obj\Debug\DistriFarmaNet.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\DistriFarmaNet\obj\Debug\DistriFarmaNet.pdb
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\bin\Debug\DistriFarmaNet.exe.config
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\bin\Debug\DistriFarmaNet.exe
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\bin\Debug\DistriFarmaNet.pdb
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\obj\Debug\DistriFarmaNet.csprojResolveAssemblyReference.cache
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\obj\Debug\DistriFarmaNet.Properties.Resources.resources
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\obj\Debug\DistriFarmaNet.csproj.GenerateResource.Cache
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\obj\Debug\DistriFarmaNet.csproj.CoreCompileInputs.cache
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\obj\Debug\DistriFarmaNet.exe
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\obj\Debug\DistriFarmaNet.pdb
+F:\Mis Documentos\One Drive\OneDrive\Unir\PRIMER CUATRIMESTRE\Plataformas de Desarrollo de Software\trabajo\tercer trabajo\DistriFarmaNet\DistriFarmaNet\obj\Debug\DistriFarmaNet.FormDistriFarma.resources
